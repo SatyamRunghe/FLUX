@@ -18,7 +18,7 @@ function Dashboard() {
 
             try {
                 const response = await fetch(
-                    "http://localhost:5000/api/dashboard",
+                    "https://flux-0b5p.onrender.com/api/dashboard",
                     {
                         headers: {
                             Authorization: `Bearer ${token}`
