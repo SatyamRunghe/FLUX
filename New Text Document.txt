@@ -1,0 +1,10 @@
+cd "D:\JAVA ALL IN ONE\FLUX"
+
+S-1 : cd "D:\JAVA ALL IN ONE\FLUX\backend"
+npm run dev
+
+S-2: cd "D:\JAVA ALL IN ONE\FLUX\frontend"
+npm run dev
+
+one line run : cd "D:\JAVA ALL IN ONE\FLUX"
+npm run dev
