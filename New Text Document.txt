@@ -1,6 +1,6 @@
 cd "D:\JAVA ALL IN ONE\FLUX"
 
-S-1 : cd "D:\JAVA ALL IN ONE\FLUX\backend"
+S-1 : PS D:\JAVA ALL IN ONE\FLUX>
 npm run dev
 
 S-2: cd "D:\JAVA ALL IN ONE\FLUX\frontend"
